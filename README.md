@@ -1,4 +1,4 @@
-# c-1
+# c-2
 program to add 2 numbers
 #include<stdio.h>
 #include<string.h>
